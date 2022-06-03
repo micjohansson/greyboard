@@ -1,8 +1,13 @@
 {
     "name": "greyboard",
     "displayName": "Greyboard",
-    "description": "A grey VS Code theme",
-    "version": "0.0.1",
+    "description": "A Minimalist Grey VS Code theme",
+    "version": "0.1",
+    "publisher": "micjohansson",
+    "license": "MIT",
+    "author": {
+        "name": "Mic Johansson"
+    },
     "engines": {
         "vscode": "^1.67.0"
     },
@@ -17,5 +22,31 @@
                 "path": "./themes/Greyboard-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "assets/icon.png",
+    "galleryBanner": {
+        "color": "#252525",
+        "theme": "dark"
+    },
+    "keywords": [
+        "theme",
+        "minimal",
+        "minimalist",
+        "dark",
+        "grey",
+        "gray",
+        "darkgrey",
+        "darkgray",
+        "blackboard",
+        "whiteboard",
+        "plain"
+    ],
+    "bugs": {
+        "url": "https://github.com/micjohansson/greyboard/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/micjohansson/greyboard"
+    },
+    "homepage": "https://github.com/micjohansson/greyboard/blob/main/README.md"
 }

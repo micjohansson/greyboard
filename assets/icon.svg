@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="640" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <title>icon</title>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#252525" height="0" id="svg_1" stroke="#000000" width="0" x="21" y="26"/>
+  <rect fill="#252525" height="640" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" transform="matrix(1 0 0 1 0 0)" width="640" x="-1.22" y="0"/>
+ </g>
+ <g class="layer">
+  <title>Layer 2</title>
+  <rect fill="#a3a3a3" height="484.15" id="svg_3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" width="34.15" x="495.37" y="77.93"/>
+ </g>
+</svg>
