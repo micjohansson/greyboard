@@ -2,7 +2,7 @@
     "name": "greyboard",
     "displayName": "Greyboard",
     "description": "A Minimalist Grey VS Code theme",
-    "version": "0.1",
+    "version": "0.1.0",
     "publisher": "micjohansson",
     "license": "MIT",
     "author": {
