@@ -1,5 +1,5 @@
 # Greyboard
-### A Minimalist, Grey Dark theme for VS Code
+### A Borderless, Grey Dark theme for VS Code
 
 ## Screenshots
 ### Windows
