@@ -29,7 +29,7 @@
 		"editorWidget.background": "#252525f8",
 		"editorWidget.border": "#2a2a2a67",
 		"focusBorder": "#88888800",
-		"input.background": "#00000000",
+		"input.background": "#252525f8",
 		"input.border": "#8888885d",
 		"input.placeholderForeground": "#a6a6a6",
 		"list.activeSelectionBackground": "#cccccc42",
